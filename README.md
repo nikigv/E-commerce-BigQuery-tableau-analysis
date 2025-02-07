@@ -1,4 +1,6 @@
-Overview
+Overview 
+![Screenshot 2025-02-07 at 06 22 17](https://github.com/user-attachments/assets/036da5ac-a7c7-408e-89b3-637e62e75d66)
+
 
 This README provides a detailed explanation of the analysis approach, methodology, and insights derived from the e-commerce dataset. The objective was to explore the data, clean and transform it for analysis, and generate meaningful insights focusing on customer behavior, sales performance, customer lifetime value (CLV), and churn prediction.
 
